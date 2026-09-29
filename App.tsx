@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import {useState} from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 import FAB from './components/FAB';
 
 export default function App() {
